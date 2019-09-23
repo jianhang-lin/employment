@@ -1,0 +1,37 @@
+.foot {
+  border-top: 1px solid #444444;
+  padding: 0;
+  margin: 0;
+  position: fixed;
+  bottom: 0;
+  height: 40px;
+  line-height: 40px;
+  left: 0;
+  right: 0;
+  font-size: 0;
+}
+.foot li {
+  font-size: 20px;
+  color: #9f9d9e;
+  width: 33%;
+}
+.foot .icon-document {
+  background-image: url("../../assets/image/document.png");
+  width: 25px;
+  height: 21px;
+}
+.foot .icon-search {
+  background-image: url("../../assets/image/search.png");
+  width: 24px;
+  height: 24px;
+}
+.foot .icon-my {
+  background-image: url("../../assets/image/my.png");
+  width: 23px;
+  height: 25px;
+}
+.foot li:hover {
+  background-color: #dbf9f4;
+  color: #01c2a3;
+}
+
