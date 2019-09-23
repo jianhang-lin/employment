@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { MainComponent } from './main/main.component';
 import { HeadComponent } from './head/head.component';
 import { PositionListComponent } from './position-list/position-list.component';
+import { FootComponent } from './foot/foot.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MainComponent,
     HeadComponent,
-    PositionListComponent
+    PositionListComponent,
+    FootComponent
   ],
   imports: [
     BrowserModule,
