@@ -1,0 +1,19 @@
+.head {
+  background-color: #12d5b5;
+  height: 40px;
+  line-height: 40px;
+  padding: 0 7px;
+}
+.head .text {
+  color: #FFFFFF;
+}
+
+.head .custom {
+  color: #FFFFFF;
+  background-color: #FEAE11;
+  border-color: #FEAE11;
+  border-style: dashed;
+  margin-top: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
